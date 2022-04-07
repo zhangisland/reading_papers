@@ -28,3 +28,4 @@ GCF: Gaussian curvature filter
 ### **与我相关**
 
 ### **相关文献**
+[[1] Different Adaptive Modified Riesz Mean Filter For High-Density Salt-and-Pepper Noise Removal in Grayscale Images](Samet2021-Different%20Adaptive%20Modified%20Riesz%20Mean%20Filter%20For%20High-Density%20Salt-and-Pepper%20Noise%20Removal%20in%20Grayscale%20Images.md)
