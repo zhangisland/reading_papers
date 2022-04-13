@@ -31,7 +31,7 @@ libaom通过机器学习支持的搜索空间修剪和提前终止(machine learn
 4. 基于帧距离的复合预测：帧距离指绝对时间差（时间戳）
 
 
-5. 变换编码中的IDTX(identical transform)，可以
+5. 变换编码中的IDTX(identity transform)，可以跳过变换
 
 
 6. IBC的块矢量为什么必须是整像素精度
