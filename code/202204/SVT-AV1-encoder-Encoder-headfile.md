@@ -32,7 +32,7 @@ typedef struct SwitchFrameCfg {
     EbSFrameMode sframe_mode;
 } SwitchFrameCfg;
 ```
-alt-ref frame是不可见的，S-frame 应该是skip？即如果当前帧变化不大，就可以把它归到alt-ref frame。<br>
+alt-ref frame是不可见的（？），S-frame 是Switch-frame<br>
 
 
 ### 常量
