@@ -1,18 +1,21 @@
 ##### Related Work
-- Saliency Driven Perceptual Image Compression (WACV 2021)
-  - [datasets: 2AFC(下载的完整版BAPPS)](https://github.com/richzhang/PerceptualSimilarity)
-  
-- Compressing Images by Encoding Their Latent Representations with Relative Entropy Coding (NeurIPS 2020)
 
 - Integer Discrete Flows and Lossless Compression (NeurIPS 2019)
 	- [jornpeters/integer_discrete_flows: Code release for Hoogeboom, Emiel, Jorn WT Peters, Rianne van den Berg, and Max Welling. "Integer Discrete Flows and Lossless Compression." Conference on Neural Information Processing Systems (2019). (github.com)](https://github.com/jornpeters/integer_discrete_flows)
 - Deep Generative Video Compression (NeurIPS 2019)
 - Compression with Flows via Local Bits-Back Coding (NeurIPS 2019)
+  - https://github.com/hojonathanho/localbitsback.
+
 - Joint Autoregressive and Hierarchical Priors for Learned Image Compression (NeurIPS 2018)
 - Neural Proximal Gradient Descent for Compressive Imaging(NeurIPS 2018)
 - Deep Generative Models for Distribution-Preserving Lossy Compression (NeurIPS 2018)
+
 - Improving Inference for Neural Image Compression (NeurIPS 2020)
 - High-Fidelity Generative Image Compression (NeurIPS 2020)
+- Compressing Images by Encoding Their Latent Representations with Relative Entropy Coding (NeurIPS 2020)
+
+- Saliency Driven Perceptual Image Compression (WACV 2021)
+  - [datasets: 2AFC(下载的完整版BAPPS)](https://github.com/richzhang/PerceptualSimilarity)
 - Compressed Video Contrastive Learning(NeurIPS 2021)
 - Deep Contextual Video Compression(NeurIPS'21)
   - [Github: https://github.com/DeepMC-DCVC/DCVC](https://github.com/DeepMC-DCVC/DCVC)
